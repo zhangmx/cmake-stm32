@@ -2,7 +2,7 @@
 #include "led_controller.h"
 #include <stm32f4xx_hal.h>
 #include <stm32f4xx_hal_gpio.h>
-
+#include <string.h>
 // gets updated when a pattern is played to keep track of the current active
 // pattern step
 struct LedPatternStep *m_currentStep = NULL;

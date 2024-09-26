@@ -5,8 +5,12 @@
   },
   "C_Cpp.default.intelliSenseMode": "gcc-arm",
   "files.associations": {
+    "*.yrf": "json",
+    "*.rpx": "xml",
+    "*.stl": "json",
     "stm32f4xx_hal.h": "c",
-    "stm32f4xx.h": "c"
+    "stm32f4xx.h": "c",
+    "stdint.h": "c"
   },
   "cortex-debug.gdbPath": "arm-none-eabi-gdb"
 }
