@@ -13,5 +13,7 @@
     "stdint.h": "c"
   },
   "cortex-debug.gdbPath": "arm-none-eabi-gdb",
-  "cmake.options.statusBarVisibility": "visible"
+  "cmake.options.statusBarVisibility": "visible",
+  "ceedlingExplorer.projectPath": "./",
+  "ceedlingExplorer.debugConfiguration": "Ceedling debug",
 }
